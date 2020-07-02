@@ -1,3 +1,7 @@
 body {
     background-color: red;
 }
+
+figure img {
+    image-resolution: 200px;
+}
